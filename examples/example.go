@@ -3,7 +3,7 @@ package main
 import (
 	"time"
 
-	"github.com/gin-contrib/cors"
+	"github.com/metamultiverse/cors"
 	"github.com/gin-gonic/gin"
 )
 
